@@ -884,7 +884,7 @@ body.loaded {
 }
 .tj-header-area .header-menu ul > li.has-dropdown > a::after {
 	position: absolute;
-	content: "\2b";
+	/*! content: "\2b"; */
 	font-family: "Font Awesome 6 Pro";
 	top: 50%;
 	transform: translateY(-50%);
